@@ -134,7 +134,6 @@ main {
 .card-right ul {
   list-style: none;
   color: var(--light-gray);
-  opacity: 0.8;
   font-size: 14px;
 }
 
